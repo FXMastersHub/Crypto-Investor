@@ -56,6 +56,10 @@ Crypto Investor EA is a fully automated trading robot designed specifically for 
 - Works hands-off—great for beginners and busy traders
 - AI-driven and optimized for BTC's unique volatility
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/pzEXDgv3AsM?si=SDdGTxxjcjb4KePV">
+</iframe>
+
 ## 💡 Conclusion
 
 Crypto Investor EA is a powerful, beginner-friendly crypto trading tool built for Bitcoin volatility. With AI, adjustable risk modes, and proven live results, it offers an automated path to trading BTC/USD efficiently and securely. Always demo-test first and manage capital wisely.
