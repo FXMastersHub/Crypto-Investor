@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/ff62169b-eb40-465b-bc6d-2beeec800769)
 
+<a href="https://youtu.be/pzEXDgv3AsM?si=YvDnvzB17xGdYaIq">Watch Video</a>
+
 <br>
 <hr>
 ➡️➡️ Get <a href="https://forextoolstore.com/product/crypto-investor/">Crypto Investor EA</a> ⬅️⬅️
@@ -55,10 +57,6 @@ Crypto Investor EA is a fully automated trading robot designed specifically for 
 - Designed to protect capital—supports funded account goals
 - Works hands-off—great for beginners and busy traders
 - AI-driven and optimized for BTC's unique volatility
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/pzEXDgv3AsM?si=SDdGTxxjcjb4KePV">
-</iframe>
 
 ## 💡 Conclusion
 
